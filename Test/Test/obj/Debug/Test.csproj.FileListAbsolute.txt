@@ -1,0 +1,6 @@
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\Test\bin\Debug\Test.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\Test\bin\Debug\Test.pdb
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\Test\obj\Debug\Test.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\Test\obj\Debug\Test.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\TestOnTest\obj\Debug\TestOnTest.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\TestOnTest\bin\Debug\TestOnTest.dll
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\TestOnTest\bin\Debug\TestOnTest.pdb
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\TestOnTest\bin\Debug\Test.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\TestOnTest\bin\Debug\Test.pdb
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\TestOnTest\obj\Debug\TestOnTest.dll
+C:\Users\Jasmin\Documents\Webbprogrammerare\Iterativ mjukvaruutveckling\Laboration 3\Test\TestOnTest\obj\Debug\TestOnTest.pdb
